@@ -25,3 +25,10 @@ https://github.com/Euno257/VTU-Microprocessor-and-Microcontroller-LAB-Programs/b
 ### Current Date and Time
 Design and develop an assembly language program to read the current time and Date from the system and display it in the standard format on the screen.
 https://github.com/Euno257/VTU-Microprocessor-and-Microcontroller-LAB-Programs/blob/master/soft1.asm
+
+---
+## MASM commands
+- open cmd
+- run
+``` cd \ ```
+``` cd masm32 ```
