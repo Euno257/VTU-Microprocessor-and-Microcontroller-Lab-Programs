@@ -12,7 +12,7 @@ Design and develop an assembly program to sort a given set of 'n' 16-bit numbers
 https://github.com/Euno257/VTU-Microprocessor-and-Microcontroller-LAB-Programs/blob/master/soft4.asm
 
 ---
-### Check Palindrome
+### Check for a Palindrome
 Develop an assembly language program to reverse a given string and verify whether it is a palindrome or not. Display the appropriate Message.
 https://github.com/Euno257/VTU-Microprocessor-and-Microcontroller-LAB-Programs/blob/master/soft2.asm
 
