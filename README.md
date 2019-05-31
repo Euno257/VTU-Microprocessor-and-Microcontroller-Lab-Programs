@@ -31,4 +31,8 @@ https://github.com/Euno257/VTU-Microprocessor-and-Microcontroller-LAB-Programs/b
 - open cmd
 - run
 ``` cd \ ```
-``` cd masm32 ```
+- then ``` cd masm32 ```
+- Make a new file: ``` edit filename.asm ```
+- Compile the file: ``` ml/Zi filename.asm ```
+- Execute the file: ``` debug filename.exe ```
+- Press __g__
