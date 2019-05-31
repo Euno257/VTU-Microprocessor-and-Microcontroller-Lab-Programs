@@ -28,6 +28,7 @@ https://github.com/Euno257/VTU-Microprocessor-and-Microcontroller-LAB-Programs/b
 
 ---
 ## MASM commands
+To edit and execute an Assembly Language Program using masm __run__ following commands.
 - open cmd
 - run
 ``` cd \ ```
